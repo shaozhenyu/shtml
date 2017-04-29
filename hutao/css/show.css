@@ -1,6 +1,5 @@
-.showh1{
-	text-align:center
-	font-size: 24px;
+.showh1 {
+    text-align: center font-size: 24px;
     color: #666;
     line-height: 34px;
     border-bottom: 1px solid #666;
@@ -8,24 +7,30 @@
     margin: 20px auto;
 }
 
-/* teaknow */
-#teaknow {
+
+/* hot */
+
+.module {
     background: #fff;
     width: 960px;
-    margin:10px auto;
-    height: 300px;
-	margin-top:60px;
-    padding-bottom: 30px;
-    /* must be relative so the individual panes can be absolutely positioned */
+    margin: 10px auto;
     position: relative;
 }
 
+#hot {
+    height: 500px;
+}
+
+#classic {
+    height: 500px;
+}
+
+#more {
+    height: 900px;
+}
+
 #cup {
-    font-size: 14px;
-    color: #444;
-    width: 900px;
-	margin:20px auto;
-    padding-right: 15px;
+    height: 500px;
 }
 
 .one-third {
@@ -34,15 +39,14 @@
     width: 250px;
 }
 
-.one-third  h2{
-    text-align:center;
+.one-third h2 {
+    text-align: center;
 }
 
-.one-third  p{
-    margin-top:10px;
+.one-third p {
+    margin-top: 10px;
 }
 
 .last {
     margin-right: 0px!important;
 }
-
