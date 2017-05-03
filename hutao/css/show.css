@@ -18,7 +18,7 @@
 }
 
 #hot {
-    height: 500px;
+    height: 850px;
 }
 
 #classic {
@@ -31,6 +31,10 @@
 
 #cup {
     height: 500px;
+}
+
+#tea {
+    height: 600px;
 }
 
 .one-third {
