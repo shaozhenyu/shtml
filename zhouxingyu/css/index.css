@@ -1,0 +1,151 @@
+.titleh1{
+    text-align:center;
+    font-size: 24px;
+    color: #666;
+    line-height: 34px;
+    border-bottom: 1px solid #666;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.titleh2{
+    text-align: center;
+    font-size: 20px;
+    color: #999;
+    line-height: 34px;
+}
+
+/* panes */
+#panes {
+    border-bottom: 1px solid #e3e3e3;
+    background: #fff;
+    width: 960px;
+    margin:10px auto;
+    height: 400px;
+    padding-bottom: 30px;
+    /* must be relative so the individual panes can be absolutely positioned */
+    position: relative;
+}
+
+#panes div {
+    font-size: 14px;
+    color: #444;
+    width: 960px;
+	margin-top:20px;
+    padding-right: 15px
+}
+
+#panes img {
+    float: left;
+    margin-right: 20px;
+}
+
+#panes h4 {
+    margin-top: 15px;
+	color: #ff6600;
+}
+
+#panes p {
+	margin-top:35px;
+	font-size:16px;
+}
+
+#panes p.more {
+    color: #000;
+    font-weight: bold;
+}
+
+
+/*prod */
+#prod_wrapper {
+    border-bottom: 1px solid #e3e3e3;
+	background: #fff;
+    width: 960px;
+    margin:50px auto;
+    height: 250px;
+    padding-bottom: 30px;
+    /* must be relative so the individual panes can be absolutely positioned */
+    position: relative;
+}
+
+#prod_nav {
+    height: 156px;
+    width: 960px;
+    margin: auto;
+}
+
+#prod_nav ul {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#prod_nav li {
+    float: left;
+    width: 192px;
+    list-style-type: none;
+    text-align: center;
+}
+
+#prod_nav p {
+    color: #333333;
+    display: block;
+    padding: 10px 0 45px;
+    position: relative;
+    word-spacing: -2px;
+    font-size: 16px;
+    height: 122px;
+    text-decoration: none;
+}
+
+#prod_nav img {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 3px 0 5px 10px;
+    padding: 4px;
+    display: block;
+}
+
+#prod_nav strong {
+    display: block;
+}
+
+
+/* teaknow */
+#teaknow {
+    background: #fff;
+    width: 960px;
+    margin:10px auto;
+    height: 550px;
+	margin-top:60px;
+    padding-bottom: 30px;
+    /* must be relative so the individual panes can be absolutely positioned */
+    position: relative;
+}
+
+#tea_nav {
+    font-size: 14px;
+    color: #444;
+    width: 900px;
+	margin:20px auto;
+    padding-right: 15px;
+}
+
+.one-third {
+    float: left;
+    margin-right: 75px;
+    width: 250px;
+}
+
+.one-third  h2{
+    text-align:center;
+}
+
+.one-third  p{
+    margin-top:10px;
+}
+
+.last {
+    margin-right: 0px!important;
+}
+

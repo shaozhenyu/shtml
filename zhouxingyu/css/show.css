@@ -1,0 +1,64 @@
+.showh1 {
+    text-align: center font-size: 24px;
+    color: #666;
+    line-height: 34px;
+    border-bottom: 1px solid #666;
+    width: 160px;
+    margin: 20px auto;
+}
+
+
+/* hot */
+
+.module {
+    background: #fff;
+    width: 960px;
+    margin: 10px auto;
+    position: relative;
+}
+
+#container img{
+    width:300px;
+}
+
+#hot {
+    height: 850px;
+}
+
+#classic {
+    height: 500px;
+}
+
+#more {
+    height: 900px;
+}
+
+#cup {
+    height: 500px;
+}
+
+#tea {
+    height: 600px;
+}
+
+.one-third {
+    float: left;
+    margin-right: 75px;
+    width: 250px;
+}
+
+.one-third h2 {
+    text-align: center;
+}
+
+.one-third p {
+    margin-top: 10px;
+}
+
+.last {
+    margin-right: 0px!important;
+}
+.info{
+    padding-top: 70px;
+   // padding-left: 20px;
+}
